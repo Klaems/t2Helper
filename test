@@ -1,4 +1,4 @@
-new test
+new test new
 
 val textend: String = """
  |Сервис MyPrivacy  <br><br>
